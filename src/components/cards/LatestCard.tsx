@@ -1,4 +1,4 @@
-import { ILatestProduct } from "@/data/latestCard";
+import { ILatestProduct } from "@/data/latestCards";
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
